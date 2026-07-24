@@ -1,8 +1,13 @@
 aid: baselane
 name: Baselane
-description: 'Baselane is a company surfaced as a portfolio company of matrix-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Baselane is an all-in-one financial platform (financial operating system) for independent
+  landlords and real estate investors, combining FDIC-insured landlord banking, automated rent collection,
+  bookkeeping and expense tracking, analytics and reporting, and cash-flow tools in a single product.
+  Banking services are provided through partner Thread Bank, and account connectivity to external banks
+  is powered by Plaid. Baselane is a consumer/SMB fintech application (web and mobile apps) rather than
+  an API platform: it publishes no first-party public developer API, developer portal, or API reference.
+  It was surfaced as a portfolio company of Matrix Partners and added to the API Evangelist network. Sector:
+  fintech / proptech.'
 url: https://raw.githubusercontent.com/api-evangelist/baselane/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - matrix-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/682db4934265432d4c302617/69b17e4405a5f7a27a224959_baselane-opengraph.png
 tags:
 - Company
 - Fintech
+- Proptech
+- Landlord Banking
+- Rent Collection
+- Real Estate
+- Banking
+- Bookkeeping
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/baselane-domain-security.yml
 - type: Website
   url: https://baselane.com
+- type: Pricing
+  url: https://www.baselane.com/pricing
+- type: Blog
+  url: https://www.baselane.com/resources
+- type: Support
+  url: https://support.baselane.com/hc/en-us
+- type: PrivacyPolicy
+  url: https://www.baselane.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.baselane.com/terms-of-use/
+- type: SignUp
+  url: https://app.baselane.com/signup
+- type: Login
+  url: https://app.baselane.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
