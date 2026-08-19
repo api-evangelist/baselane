@@ -26,7 +26,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 image: https://cdn.prod.website-files.com/682db4934265432d4c302617/69b17e4405a5f7a27a224959_baselane-opengraph.png
