@@ -47,7 +47,7 @@ tags:
 - PropTech
 - Landlord Banking
 - Rent Collection
-- Real-Estate
+- Real Estate
 - Banking
 - Bookkeeping
 tags_raw:
@@ -59,6 +59,7 @@ tags_raw:
 - Real Estate
 - Banking
 - Bookkeeping
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
