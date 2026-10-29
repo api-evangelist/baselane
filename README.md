@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Baselane is a company surfaced as a portfolio company of matrix-partners and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+Baselane is an all-in-one financial platform (financial operating system) for independent landlords and real estate investors, combining FDIC-insured landlord banking, automated rent collection, bookkeeping and expense tracking, analytics and reporting, and cash-flow tools in a single product. Banking services are provided through partner Thread Bank, and account connectivity to external banks is powered by Plaid. Baselane is a consumer/SMB fintech application (web and mobile apps) rather than an API platform: it publishes no first-party public developer API, developer portal, or API reference. It was surfaced as a portfolio company of Matrix Partners and added to the API Evangelist network. Sector: fintech / proptech.
 
-Backed by: matrix-partners — https://baselane.com
+**Areas:** Company · Fintech · PropTech · Landlord Banking · Rent Collection · Real Estate · Banking · Bookkeeping
+
+## Baselane on APIs.io
+
+Everything profiled for Baselane is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/baselane/](https://apis.io/providers/baselane/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Baselane Domain Security](https://apis.io/security/baselane/baselane-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://baselane.com)
+- [Pricing](https://www.baselane.com/pricing)
+- [Sign up](https://app.baselane.com/signup)
+- [Support](https://support.baselane.com/hc/en-us)
+- [Blog](https://www.baselane.com/resources)
+- [Terms of service](https://www.baselane.com/terms-of-use/)
+- [Privacy policy](https://www.baselane.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 12.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 38.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.0** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/baselane/](https://apis.io/providers/baselane/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Baselane: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/baselane/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
